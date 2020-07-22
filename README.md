@@ -1,1 +1,1 @@
-# Project2: adding loops and conditionals
+# Project2: Adding loops and conditionals
